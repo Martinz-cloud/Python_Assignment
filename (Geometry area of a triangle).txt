@@ -1,0 +1,21 @@
+                               (Geometry: area of a triangle)
+					Stage one
+1. prompt user to enter three points of triangle.
+2. Display its area.
+                                        Stage two
+1. prompt user to enter point one.
+2. collect point one.
+3. store point one as "point1".
+4. prompt user to enter point two.
+5. collect point two.
+6. store point two as "point2".
+7. prompt user to enter point three.
+8. collect point three.
+9. store point three as "point3".
+10. calculate the value of "s" using ( point1 + point2 + point3)/2.
+11. store result as "s".
+12. calculate value  using (s(s- point1)(s-point2)(s-point3)).
+13. store result as "value".
+14. calculate the area of triangle by finding the square root of "value".
+15. store result as "area".
+16. Display "area". 
