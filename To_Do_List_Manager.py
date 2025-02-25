@@ -1,5 +1,4 @@
 def display_menu():
-	print ("SAMPLE RUN")
 	print ("TO-DO LIST MANAGER")
 	print ("""
 	1. Add a task
